@@ -1,0 +1,1 @@
+# redux_react_native_tech_list_app
